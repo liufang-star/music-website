@@ -66,13 +66,13 @@
 
 ## 开发环境
 
-JDK： jdk-8u141
+JDK： jdk-8u251
 
 mysql：mysql-5.7.21-1-macos10.13-x86_64
 
 node：v12.4.0
 
-IDE：IntelliJ IDEA 2018、VSCode
+IDE：IntelliJ IDEA 2020、VSCode
 
 <br/>
 
@@ -135,8 +135,7 @@ npm run dev // 启动后台管理项目
 
 如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
 
-
-
+![1bb65aedafd5959216ebbcf11f45075](https://user-images.githubusercontent.com/62829390/139014340-d456751c-b30c-4b25-a649-a578c3be8af3.jpg)
 
 
 ## License
