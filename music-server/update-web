@@ -1,0 +1,10 @@
+改动的地方：
+     1、数据库password原本是root改为了123456
+
+     2、src/resources/generatorConfig.xml下
+     原本的
+     /Users/hongweiyin/Documents/github-workspace/music-website/music-server/src/main/resources/mysql-connector-java-8.0.13.jar
+     改为了
+     G:\idea_project_springboot\music-website-master\music-server\src\main\resources\mysql-connector-java-8.0.13.jar
+
+     3、src/java/下的Constants路径改了.两个都改了.原来是什么路径不清楚.
