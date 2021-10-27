@@ -18,39 +18,9 @@
 
 > 前台截图预览
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec0a2vd9j31c00u0n4z.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec0qtdxrj31c00u07wj.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec19x0e6j31c00u0npe.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec1nmbt4j31c00u0hcf.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec1yc0gkj31c00u0kjm.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec29vvdtj31c00u0nok.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec2ixqk1j31c00u0qf8.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec31i06gj31c00u0wtw.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec3ozxt9j31c00u0qbv.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1geec41r7onj31c00u047y.jpg)<br/>
 
 > 后台截图预览
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9hhhu4n7tj31c00u04qq.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghrnrvgflvj31c00u0jzh.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghrns4ycpkj31c00u0qjl.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghrnsfearcj31c00u0axt.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghrnsq6s3sj31c00u0tmu.jpg)<br/>
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghrnszq403j31c00u07nq.jpg)<br/>
 
 ## 项目功能
 
@@ -96,18 +66,14 @@ IDE：IntelliJ IDEA 2018、VSCode
 #### 1、下载项目到本地
 
 ```bash
-git clone https://github.com/Yin-Hongwei/music-website.git
+git clone https://github.com/liufang-star/music-website.git
 ```
-
-#### 2、下载数据库中记录的资源
-
-去【链接: https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg 提取码: gwa4 】下载网站依赖的歌曲及图片，将 data 夹里的文件放到 music-server 文件夹下。
 
 > 注意：资源整理了一下，按照下面的截图存放。
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNly1gsk65seqd8j30y00ocjt4.jpg" height="200px"/>
 
-#### 3、修改配置文件
+#### 2、修改配置文件
 1）创建数据库
 将 `music-website/music-server/sql` 文件夹中的 `tp_music.sql` 文件导入数据库。
 
@@ -156,11 +122,9 @@ npm run dev // 启动后台管理项目
 
 
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gsgm6jokvaj30gs0feadd.jpg)
-
 
 
 ## License
 
-Copyright (c) 2018 Yin-Hongwei 
+Copyright (c) 2021 Yin-LiuFang
 
